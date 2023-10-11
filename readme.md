@@ -1,4 +1,6 @@
-# There are a few things that will need to be worked on in the near future, such as:
+# This is a simple todi-list app with a graphical user inter that simply allows a user to type in the name of the item they want to add to the list and it add it.
+
+# There are a few things that still need to be worked on in the near future, such as:
 
 # connecting the todo-list to a working database
 
